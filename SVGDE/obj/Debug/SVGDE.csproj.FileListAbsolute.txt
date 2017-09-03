@@ -1,1 +1,8 @@
 C:\sistema\SVGDE\SVGDE\bin\Debug\SVGDE.exe.config
+C:\sistema\SVGDE\SVGDE\bin\Debug\SVGDE.exe
+C:\sistema\SVGDE\SVGDE\bin\Debug\SVGDE.pdb
+C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.csprojResolveAssemblyReference.cache
+C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.Properties.Resources.resources
+C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.csproj.GenerateResource.Cache
+C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.exe
+C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.pdb

@@ -6,3 +6,5 @@ C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.Properties.Resources.resources
 C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.csproj.GenerateResource.Cache
 C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.exe
 C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.pdb
+C:\sistema\SVGDE\SVGDE\bin\Debug\MySql.Data.dll
+C:\sistema\SVGDE\SVGDE\obj\Debug\SVGDE.Form1.resources
